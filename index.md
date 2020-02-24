@@ -7,4 +7,4 @@ I am currently working on the following projects.
 This project aims to extend on [chaotic sensing](https://shakes76.github.io/ChaoS/) by allowing the generation of a wide variety of fractal sampling patterns for MRI. 
 
 ## VisLaS ([GitHub](https://jacobwhite-dev.github.io/vislas/))
-**Vis**ualising **La**tent **S**paces (VisLaS or vislas) is a framework for visualisation of high-dimensional manifolds. It Combines dimensionality reduction and plotting into a single package.
+**Vis**ualising **La**tent **S**paces (VisLaS/vislas) is a framework for visualisation of high-dimensional manifolds. It combines dimensionality reduction and plotting into a single package.
