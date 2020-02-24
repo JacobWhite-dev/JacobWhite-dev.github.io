@@ -1,3 +1,10 @@
+# Projects
+* Bespoke Fractals ([linked phrase](https://jacobwhite-dev.github.io/bespoke-fractals/))
+  + Specially designed sampling fractals designed to accelerate MRI acquisition
+* VisLaS ([linked_phrase](https://jacobwhite-dev.github.io/vislas/))
+  + Framework for visualisation of high-dimensional manifolds
+  + Combined dimensionality reduction and plotting into a single package
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JacobWhite-dev/JacobWhite-dev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
