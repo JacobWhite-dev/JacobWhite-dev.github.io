@@ -1,46 +1,10 @@
+# About Me
+I'm an electrical and biomedical engineering student with interests in medical imaging, deep learning and signal processing. Here you can find some of the projects I've worked on. 
+
 # Projects
+I am currently working on the following projects.
 * Bespoke Fractals ([GitHub](https://jacobwhite-dev.github.io/bespoke-fractals/))
   + Specially designed sampling fractals designed to accelerate MRI acquisition
 * VisLaS ([GitHub](https://jacobwhite-dev.github.io/vislas/))
   + Framework for visualisation of high-dimensional manifolds
   + Combined dimensionality reduction and plotting into a single package
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/JacobWhite-dev/JacobWhite-dev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JacobWhite-dev/JacobWhite-dev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### WOWOWOW
