@@ -1,7 +1,7 @@
 # Projects
-* Bespoke Fractals ([linked phrase](https://jacobwhite-dev.github.io/bespoke-fractals/))
+* Bespoke Fractals ([GitHub](https://jacobwhite-dev.github.io/bespoke-fractals/))
   + Specially designed sampling fractals designed to accelerate MRI acquisition
-* VisLaS ([linked_phrase](https://jacobwhite-dev.github.io/vislas/))
+* VisLaS ([GitHub](https://jacobwhite-dev.github.io/vislas/))
   + Framework for visualisation of high-dimensional manifolds
   + Combined dimensionality reduction and plotting into a single package
 
